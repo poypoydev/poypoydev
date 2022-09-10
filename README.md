@@ -2,4 +2,4 @@
 
 
 
-I mess around with technologies such as React,Next.js, TailwindCSS, GraphQL, MongoDB, Node, Pyhton, MySQL, Git, TypeScript & Javascript : )
+I mess around with technologies such as React,Next.js, TailwindCSS, GraphQL, MongoDB, tRPC, Node, Pyhton, MySQL, Git, TypeScript & Javascript : )

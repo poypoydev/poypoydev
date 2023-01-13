@@ -1,5 +1,3 @@
-[![wtf does Poyraz do all day?](https://github-readme-stats.vercel.app/api?username=poypoydev)](https://github.com/anuraghazra/github-readme-stats)
+**wtf do i do?
 
-
-
-I mess around with technologies such as React,Next.js, TailwindCSS, GraphQL, Postgre, Prisma, Framer Motion MongoDB, tRPC, Node, Pyhton, MySQL, Git, TypeScript & Javascript : )
+I'm pretty good in web development :)

@@ -1,3 +1,1 @@
-**wtf do i do?
-
-I'm pretty good in web development :)
+this shit got me f*cked up!
